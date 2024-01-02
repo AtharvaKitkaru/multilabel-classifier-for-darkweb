@@ -19,8 +19,3 @@ The classification of content on the deep and dark web has been a topic of inter
 ## Code and Data
 
 The code and data for this paper can be found in this repository. The code is written in Python and uses libraries such as TensorFlow, Keras, Scikit-learn, and NLTK. The data consists of 50,000 HTML documents from the deep and dark web, which are preprocessed and labeled using the proposed approach. The data is split into training and testing sets using a 75:25 ratio. The code includes scripts for data preprocessing, feature extraction, label assignment, model training, and evaluation. The code also includes a Jupyter notebook that demonstrates the usage and results of the proposed approach. The code and data are licensed under the Creative Commons Attribution 4.0 International License.
-
-Source: Conversation with Bing, 2/1/2024
-(1) A Hybrid TF-IDF and RNN Model for Multi-label Classification of the .... https://thesai.org/Downloads/Volume14No7/Paper_106-A_Hybrid_TF_IDF_and_RNN_Model_for_Multi_label_Classification.pdf.
-(2) A Hybrid TF-IDF and RNN Model for Multi-label Classification of the .... https://thesai.org/Publications/ViewPaper?Volume=14&Issue=7&Code=IJACSA&SerialNo=106.
-(3) Downloads - The Science and Information (SAI) Organization. https://thesai.org/Home/Downloads.
