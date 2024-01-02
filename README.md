@@ -1,5 +1,3 @@
-Here is a possible summary of the research paper for a GitHub README:
-
 # A Hybrid TF-IDF and RNN Model for Multi-label Classification of the Deep and Dark Web
 
 This repository contains the code and data for the paper "A Hybrid TF-IDF and RNN Model for Multi-label Classification of the Deep and Dark Web" by Ashwini Dalvi et al., published in the International Journal of Advanced Computer Science and Applications (IJACSA), Volume 14, Issue 7, 2023.
